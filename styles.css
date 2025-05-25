@@ -1,0 +1,14 @@
+.snippet-item {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.mobile-snippet-input {
+  flex-grow: 1;
+}
+
+.reset-container {
+  display: flex;
+  justify-content: flex-end;
+}

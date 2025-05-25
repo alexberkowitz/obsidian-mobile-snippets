@@ -1,0 +1,11 @@
+{
+	"id": "mobile-snippets",
+	"name": "Mobile Snippets",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Easily add simple text snippets to the mobile toolbar",
+	"author": "Alex Berkowitz",
+	"authorUrl": "https://alexberkowitz.com",
+	"fundingUrl": "https://buymeacoffee.com/alexberkowitz",
+	"isDesktopOnly": false
+}
